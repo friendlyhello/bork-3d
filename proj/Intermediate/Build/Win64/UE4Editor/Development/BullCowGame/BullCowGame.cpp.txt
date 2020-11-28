@@ -1,0 +1,2 @@
+C:\Users\val\Desktop\Game Development\Projects\bork-3d\proj\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\Definitions.BullCowGame.h
+C:\Users\val\Desktop\Game Development\Projects\bork-3d\proj\Source\BullCowGame\BullCowGame.h

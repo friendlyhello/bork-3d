@@ -1,0 +1,5 @@
+C:\Users\val\Desktop\Game Development\Projects\bork-3d\proj\Intermediate\Build\Win64\UE4Editor\Development\BullCowGame\Definitions.BullCowGame.h
+C:\Users\val\Desktop\Game Development\Projects\bork-3d\proj\Source\BullCowGame\BullCowCartridge.h
+C:\Users\val\Desktop\Game Development\Projects\bork-3d\proj\Source\BullCowGame\Console/Cartridge.h
+C:\Users\val\Desktop\Game Development\Projects\bork-3d\proj\Intermediate\Build\Win64\UE4Editor\Inc\BullCowGame\Cartridge.generated.h
+C:\Users\val\Desktop\Game Development\Projects\bork-3d\proj\Intermediate\Build\Win64\UE4Editor\Inc\BullCowGame\BullCowCartridge.generated.h

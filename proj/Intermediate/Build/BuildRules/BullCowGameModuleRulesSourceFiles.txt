@@ -1,0 +1,3 @@
+C:\Users\val\Desktop\Game Development\Projects\bork-3d\proj\Source\BullCowGame\BullCowGame.Build.cs
+C:\Users\val\Desktop\Game Development\Projects\bork-3d\proj\Source\BullCowGame.Target.cs
+C:\Users\val\Desktop\Game Development\Projects\bork-3d\proj\Source\BullCowGameEditor.Target.cs
